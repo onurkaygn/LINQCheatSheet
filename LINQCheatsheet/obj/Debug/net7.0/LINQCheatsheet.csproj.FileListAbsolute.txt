@@ -1,0 +1,14 @@
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\bin\Debug\net7.0\LINQCheatsheet.exe
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\bin\Debug\net7.0\LINQCheatsheet.deps.json
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\bin\Debug\net7.0\LINQCheatsheet.runtimeconfig.json
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\bin\Debug\net7.0\LINQCheatsheet.dll
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\bin\Debug\net7.0\LINQCheatsheet.pdb
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.AssemblyInfoInputs.cache
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.AssemblyInfo.cs
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.csproj.CoreCompileInputs.cache
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.dll
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\refint\LINQCheatsheet.dll
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.pdb
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\LINQCheatsheet.genruntimeconfig.cache
+C:\Users\onura\Desktop\LINQCheatSheet\LINQCheatsheet\LINQCheatsheet\obj\Debug\net7.0\ref\LINQCheatsheet.dll
